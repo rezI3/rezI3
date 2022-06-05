@@ -1,4 +1,11 @@
 ### Hi there 👋
+<p>
+  <img alt="Top Langs" height=170 src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezI3&title_color=77f590&layout=compact&theme=dark" />
+  <img alt="github stats" height=170 src="https://github-readme-stats.vercel.app/api?username=rezI3&theme=dark&title_color=77f590&show_icons=true"/>
+
+
+  <img alt="tophys" src="https://github-profile-trophy.vercel.app/?username=rezI3&theme=onestar&title_color=#77f590&column=7"/>
+</p>
 
 <!--
 **rezI3/rezI3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
