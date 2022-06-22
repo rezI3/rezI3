@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<p>
+  <img alt="Top Langs" height=170 src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezI3&title_color=77f590&layout=compact&theme=dark" />
+</p>
+
 <!--
 **rezI3/rezI3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
